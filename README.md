@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 !</h1>
 
-# 💻 Languages and Tools:
+# 💻 Langages et Outils :
 
 ## Langages de Programmation : 
 
