@@ -59,8 +59,6 @@
    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 # 📊 GitHub Stats:
-<br clear="both">
-<img src="https://raw.githubusercontent.com/DfAnaIII/DfAnaIII/output/snake.svg" alt="Snake animation" />
 <div>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DfAnaIII&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
  
