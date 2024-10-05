@@ -83,9 +83,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/DfAnaIII/count.svg?"  />
 </div>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-</p>
