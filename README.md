@@ -6,9 +6,9 @@
 - 👩🏻‍💻 Code Game Jam 2024 : [La Dernière Descente](https://ystevak.itch.io/la-derniere-descente)
 - 🎮 Mon Itch.io : [DfAnaIII](https://dfanaiii.itch.io/)
 - 🔨 Mon site github : [Mon Site](https://dfanaiii.github.io/)
--  <a href="https://www.linkedin.com/in/ana-d-erfurth-26491b2a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana d'erfurth" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCoBc9UX3Chg71OHOCk98Wpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dnana" height="30" width="40" /></a>
-<a href="https://discord.gg/dfnana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dfnana" height="30" width="40" /></a>
+   <div align="center"> 
+     <a href="https://www.linkedin.com/in/ana-d-erfurth-26491b2a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana d'erfurth" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCoBc9UX3Chg71OHOCk98Wpw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dnana" height="30" width="40" /></a><a href="https://discord.gg/dfnana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dfnana" height="30" width="40" /></a>
+</div>
 
 # 💻 Langages et Outils :
 
