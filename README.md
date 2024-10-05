@@ -80,3 +80,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/DfAnaIII/count.svg?"  />
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DfAnaIII/DfAnaIII/output/snake.svg" alt="Snake animation" />
