@@ -80,5 +80,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/DfAnaIII/count.svg?"  />
 </div>
-
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
