@@ -5,6 +5,9 @@
 
 - 👨‍💻 Code Game Jam 2024 : [La Dernière Descente](https://ystevak.itch.io/la-derniere-descente)
 -  Mon Itch.io : [DfAnaIII](https://dfanaiii.itch.io/)
+-  <a href="https://linkedin.com/in/ana d'erfurth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana d'erfurth" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dnana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dnana" height="30" width="40" /></a>
+<a href="https://discord.gg/dfnana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dfnana" height="30" width="40" /></a>
 
 # 💻 Langages et Outils :
 
@@ -80,3 +83,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/DfAnaIII/count.svg?"  />
 </div>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+</p>
