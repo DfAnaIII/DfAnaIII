@@ -56,6 +56,7 @@
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
  ![JetBrains Badge](https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=fff&style=for-the-badge)
+ ![Xcode Badge](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=fff&style=for-the-badge)
 
   ## Outils de design et de prototypage
 
